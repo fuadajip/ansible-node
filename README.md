@@ -1,2 +1,2 @@
 # ansible-node
-Ansible playbook for node
+Simple Ansible playbook for node

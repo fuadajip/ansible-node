@@ -1,0 +1,12 @@
+{
+  "name": "ansible-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:fuadajip/ansible-node.git",
+  "author": "fuadajip <fuadajipratomo@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3"
+  }
+}
